@@ -9,6 +9,8 @@ function App() {
         title={expenses[0].title}
         date={expenses[0].date}
         price={expenses[0].price}
+
+        
       />
     </>
   );
